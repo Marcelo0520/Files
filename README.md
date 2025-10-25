@@ -1,1 +1,1 @@
-Este repositorio contiene los múltiples datasets para su aplicación en Machine learning.
+Repositorio para Datasets, dedicado para el estudio autodidacta o evaluaciones.
